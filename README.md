@@ -6,6 +6,14 @@
    ![guess_number](https://user-images.githubusercontent.com/65603485/114981524-c5cbdc00-9eab-11eb-90fa-ddb022e28dea.PNG)
 
 ## 2. ROCK PAPER SCISSORS
+##### In this game, user gets the chance to pick the option among Rock, paper and scissor. After that computer select randomly between these three, then winner is decided as per the rules.
+
+#### Winning Rules as follows :
+
+##### Rock vs paper-> paper wins
+##### Rock vs scissor-> Rock wins
+##### paper vs scissor-> scissor wins
+##### if both gets same then its draw.
    ![Capture](https://user-images.githubusercontent.com/65603485/115119745-9b6f4100-9fc7-11eb-88b0-fa53f9879531.PNG)
 
 ## 3.  Weather report
