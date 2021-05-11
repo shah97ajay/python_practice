@@ -15,3 +15,6 @@
 
 ## 5. Body Mass Index
    ![Capture](https://user-images.githubusercontent.com/65603485/117773271-bd21b800-b255-11eb-9761-7b08bee7549e.PNG)
+
+## 6. Roman to Decimal
+   ![Capture](https://user-images.githubusercontent.com/65603485/117863958-eec86c80-b2b1-11eb-8f9a-b4c7f0acc1be.PNG)
