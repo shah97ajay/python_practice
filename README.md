@@ -2,7 +2,7 @@
 # Pthon_Pactice
 
 ## 1. Guess number
-###### The random function generates the number between 1 to 10. if the guessed number is high then you will see too high if guessed number id low then you will see too low. Once the user guess is matched with an actual number then the game is over. Simple!!
+##### The random function generates the number between 1 to 10. if the guessed number is high then you will see too high if guessed number id low then you will see too low. Once the user guess is matched with an actual number then the game is over. Simple!!
    ![guess_number](https://user-images.githubusercontent.com/65603485/114981524-c5cbdc00-9eab-11eb-90fa-ddb022e28dea.PNG)
 
 ## 2. ROCK PAPER SCISSORS
