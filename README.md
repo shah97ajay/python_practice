@@ -12,3 +12,6 @@
 
 ## 4. Dice simulator
    ![Capture](https://user-images.githubusercontent.com/65603485/116719968-497fdf80-a9f9-11eb-82d9-24af43ee9326.PNG)
+
+## 5. Body Mass Index
+   ![Capture](https://user-images.githubusercontent.com/65603485/117773271-bd21b800-b255-11eb-9761-7b08bee7549e.PNG)
