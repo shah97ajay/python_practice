@@ -27,3 +27,7 @@
 
 ## 6. Roman to Decimal
    ![Capture](https://user-images.githubusercontent.com/65603485/117863958-eec86c80-b2b1-11eb-8f9a-b4c7f0acc1be.PNG)
+
+## 7. Color Text
+##### The Colorama module offers three main formatting options: Fore, Back, and Style. These allow us to change the foreground or background text color and style. The colors available for the foreground and background are black, red, green, yellow, blue, magenta, cyan, and white.
+   ![Capture](https://user-images.githubusercontent.com/65603485/118304647-9046fc80-b504-11eb-86d8-7f1658f82d1b.PNG)
